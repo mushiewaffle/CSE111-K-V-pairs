@@ -4,4 +4,9 @@ CSE111(Advanced Programming), an upper division C++ course at UC Santa Cruz.
 Skeleton code was provided to us by our instructor Wesley Mackey. 
 Our implementation of the code can be found in main.cpp, listmap.h, and listmap.tcc
 
-Details about the assignment and the features of the code can be found in asg3-listmap-templates.pdf
+This program implements template code without using any template classes from the std library.
+Input is read and cleaned then executed as commands. A linked list data structure is used where
+data is stored in keys and values of a specific node. 
+
+Further details about the assignment and the features of the code can be found in the file: 
+asg3-listmap-templates.pdf
